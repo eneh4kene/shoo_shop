@@ -24,13 +24,13 @@ This project is a React application built using Vite for faster development and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/eneh4kene/shoo_shop.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd YOUR_REPOSITORY_NAME
+   cd shoo_shop
    ```
 
 3. Install the dependencies:
